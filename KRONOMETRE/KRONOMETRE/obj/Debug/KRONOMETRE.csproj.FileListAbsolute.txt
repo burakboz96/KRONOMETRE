@@ -1,0 +1,11 @@
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.exe.config
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.exe
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.pdb
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\obj\Debug\KRONOMETRE.csproj.AssemblyReference.cache
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\obj\Debug\KRONOMETRE.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\obj\Debug\KRONOMETRE.Form1.resources
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\obj\Debug\KRONOMETRE.Properties.Resources.resources
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\obj\Debug\KRONOMETRE.csproj.GenerateResource.cache
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\obj\Debug\KRONOMETRE.csproj.CoreCompileInputs.cache
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\obj\Debug\KRONOMETRE.exe
+C:\Users\burak bozoğlu\source\repos\KRONOMETRE\KRONOMETRE\obj\Debug\KRONOMETRE.pdb
